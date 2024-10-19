@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anurag-Kumar-cg
+- 👋 Hi, I’m @Anurag-Kumar
 - 👀 I’m interested in playing with codes
 - 🌱 I’m currently learning Copilot
 - 💞️ I’m looking to collaborate on Opensource
